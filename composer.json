@@ -49,8 +49,7 @@
 
     "extra": {
         "branch-alias": {
-            "dev-master": "2.x-dev",
-            "dev-pifid": "up-to-php-8.0"
+            "dev-master": "2.x-dev"
         },
         "bin-dir": "bin",
         "sort-packages": true
